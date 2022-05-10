@@ -59,7 +59,6 @@ const App = () => {
         <div className="main_container">
           <div className="banner">
             <Banner name={"Intezar"} discount={"20"} link={"#"} />
-            <img src={f2} className="dlevery_img" />
           </div>
           {/* dis container components */}
           <div className="dis_container">
